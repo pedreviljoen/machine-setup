@@ -2,7 +2,7 @@
 
 # title:            setup.sh
 # description:      This will setup a MacOS machine for development of React-Native applications
-# usage:            
+# usage:            bash <(curl -s https://raw.githubusercontent.com/pedreviljoen/machine-setup/master/setup.sh)
 
 echo "Installing Homebrew..."
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -27,3 +27,9 @@ sleep 1
 echo "Installing React-Native-CLI"
 npm install -g react-native-cli
 sleep 1
+
+echo "Installing iTerm 2"
+brew cask install iterm2
+sleep 1
+
+echo "Finished installing all required packages and tools"
