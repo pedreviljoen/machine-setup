@@ -20,6 +20,7 @@ The bash script installs the following:
 - [x] Watchman
 - [x] React Native CLI Tools
 - [x] iTerm 2
+- [x] Java latest JDK
 
 ## Add other packages
 
