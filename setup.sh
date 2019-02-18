@@ -16,6 +16,10 @@ echo "Upgrading Homebrew"
 brew upgrade 
 sleep 1
 
+echo "Installing GIT"
+brew install git
+sleep 1
+
 echo "Installing Node"
 brew install node
 sleep 1

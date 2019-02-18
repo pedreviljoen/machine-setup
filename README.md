@@ -15,6 +15,7 @@ bash <(curl -s https://raw.githubusercontent.com/pedreviljoen/machine-setup/mast
 The bash script installs the following:
 
 - [x] Homebrew
+- [x] Git
 - [x] Node
 - [x] NPM
 - [x] Watchman
