@@ -23,4 +23,4 @@ The bash script installs the following:
 
 ## Add other packages
 
-If you feel there are missing packages. Open an issue, including the package name, [here]().
+If you feel there are missing packages. Open an issue, including the package name, [here](https://github.com/pedreviljoen/machine-setup/issues).
