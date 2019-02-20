@@ -17,10 +17,11 @@ The bash script installs the following:
 - [x] Homebrew
 - [x] Git
 - [x] Node
-- [x] NPM
+- [x] NPM - Node package manager
 - [x] Watchman
 - [x] React Native CLI Tools
 - [x] iTerm 2
+- [x] Yarn package manager
 - [x] Java latest JDK
 
 ## Add other packages

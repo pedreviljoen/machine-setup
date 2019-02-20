@@ -36,6 +36,10 @@ echo "Installing iTerm 2"
 brew cask install iterm2
 sleep 1
 
+echo "Installing Yarn"
+brew install yarn
+sleep 1
+
 echo "Installing latest JDK"
 brew cask install java
 sleep 1
