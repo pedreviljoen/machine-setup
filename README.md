@@ -23,6 +23,7 @@ The bash script installs the following:
 - [x] iTerm 2
 - [x] Yarn package manager
 - [x] VS Code - Great code editor
+- [x] Fastlane - App automation done right
 - [x] Java latest JDK
 
 ## Add other packages
