@@ -40,6 +40,10 @@ echo "Installing Yarn"
 brew install yarn
 sleep 1
 
+echo "Installing VS Code"
+brew cask install visual-studio-code
+sleep 1 
+
 echo "Installing latest JDK"
 brew cask install java
 sleep 1

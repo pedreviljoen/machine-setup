@@ -22,6 +22,7 @@ The bash script installs the following:
 - [x] React Native CLI Tools
 - [x] iTerm 2
 - [x] Yarn package manager
+- [x] VS Code - Great code editor
 - [x] Java latest JDK
 
 ## Add other packages
