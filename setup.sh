@@ -44,12 +44,17 @@ echo "Installing VS Code"
 brew cask install visual-studio-code
 sleep 1
 
+echo "Installing Fastlane"
+brew cask install fastlane
+sleep 1
+
+echo "Installing Android Platform Tools"
+brew cask install android-platform-tools
+sleep 1
+
 echo "Installing latest JDK"
 brew cask install java
 sleep 1
 
-echo "Installing Fastlane"
-brew cask install fastlane
-sleep 1
 
 echo "Finished installing all required packages and tools"

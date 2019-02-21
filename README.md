@@ -24,6 +24,7 @@ The bash script installs the following:
 - [x] Yarn package manager
 - [x] VS Code - Great code editor
 - [x] Fastlane - App automation done right
+- [x] Android Platform Tools - installs adb, to run app on emulator & connected devices
 - [x] Java latest JDK
 
 ## Add other packages
