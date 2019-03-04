@@ -53,7 +53,7 @@ brew cask install android-platform-tools
 sleep 1
 
 echo "Installing latest JDK"
-brew cask install java
+brew cask install java8
 sleep 1
 
 
